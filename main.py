@@ -6,6 +6,11 @@ from colorama import Fore, Back, Style
 from time import sleep
 from os import listdir
 
+### TODO: 
+# - Fix scheduler
+
+### NOTES:
+# - Implement into website
 
 print('\n')
 print(Fore.LIGHTBLACK_EX + '===== ' + Fore.LIGHTCYAN_EX + 'NFL ELIMINATOR Version 1.0.0' + Fore.LIGHTBLACK_EX + ' =====')
