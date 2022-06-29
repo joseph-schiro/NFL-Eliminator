@@ -1,0 +1,14 @@
+.baseOutline{
+  width: 75px;
+  height: 150px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.cardFace{
+  max-width: auto;
+  max-height: auto;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+}
