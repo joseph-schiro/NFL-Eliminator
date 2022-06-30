@@ -5,3 +5,7 @@ p {
 h1 {
     color: red;
 }
+
+body, html {
+    background-color: red;
+}
